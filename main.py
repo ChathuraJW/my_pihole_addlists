@@ -51,7 +51,7 @@ def main():
         destination_file = open(file_name_to_write, "ab")
 
         # create list meta and add to file
-        list_meta = "########################################################################## \n" \
+        list_meta = "\n########################################################################## \n" \
                     "# ==> From:            " + list_entry[2] + "\n" \
                     "# ==> Comment:         " + list_entry[3] + "\n" \
                     "# ==> Source File URL: " + list_entry[4] + "\n" \
@@ -69,18 +69,21 @@ def main():
             downloaded_file_names.append(download_file_name)
 
             # open the downloaded file and append to list
-            downloaded_file = open(download_file_name, "rb")
-            destination_file.write(downloaded_file.read())
-            # TODO check empty file or with the content of "Service Suspended" and ignore them
-
+            downloaded_file = open(download_file_name, "r")
+            file_content = downloaded_file.read()
+            # ignore empty files
+            if file_content.lower().find("service suspended") == -1:
+                destination_file.write(bytes(file_content, 'utf-8'))
+                print(list_entry[4], " ===> Added to the list. ", tag)
+            else:
+                print(list_entry[4], " ===x Not added to the list.(empty file) ", tag)
             # close opened stream
             downloaded_file.close()
-            print(list_entry[4], " ===> Added to the list. ", tag)
 
         except:
             # append error message
             downloaded_file_names.append("N/A " + download_file_name)
-            print(list_entry[4], " ===x Not added to the list. ", tag)
+            print(list_entry[4], " ===x Not added to the list.(list download issue) ", tag)
 
         # close opened stream
         destination_file.close()
