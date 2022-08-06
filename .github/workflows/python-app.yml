@@ -31,5 +31,9 @@ jobs:
     - name: execute main.py
       run: |
           python3 main.py
-    - name: Push new files back to master.
-      uses: mikeal/publish-to-github-action@1.0.0
+    - name: Commit report
+      run: |
+          git config --global user.name 'Git Bot'
+          git config --global user.email 'wachathuraj@gmail.com'
+          git commit -am "Automated update.."
+          git push
