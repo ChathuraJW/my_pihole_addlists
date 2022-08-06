@@ -31,3 +31,5 @@ jobs:
     - name: execute main.py
       run: |
           python3 main.py
+    - name: Push new files back to master.
+      uses: mikeal/publish-to-github-action@1.0.0
