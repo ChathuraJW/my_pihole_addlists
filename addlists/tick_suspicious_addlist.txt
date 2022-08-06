@@ -1,0 +1,7 @@
+########################################################################## 
+# This add list created based on the lists at https://firebog.net/.
+# This aggregated list is licence under the Apache-2.0 license.
+# The content of this list categorized as 
+# ==> suspicious
+# ==> tick
+########################################################################## 
