@@ -5,6 +5,7 @@
 # ==> suspicious
 # ==> cross
 ########################################################################## 
+
 ########################################################################## 
 # ==> From:            https://hostsfile.mine.nu/
 # ==> Comment:         Andy Short
@@ -111911,7 +111912,8 @@
 0.0.0.0	yhdmi.com
 0.0.0.0	yourloveletter.com
 0.0.0.0	youronlinelove.com
-0.0.0.0	zaychonok.org########################################################################## 
+0.0.0.0	zaychonok.org
+########################################################################## 
 # ==> From:            http://www.sa-blacklist.stearns.org/sa-blacklist/
 # ==> Comment:         Bill Stearn
 # ==> Source File URL: https://v.firebog.net/hosts/BillStearns.txt
@@ -120693,7 +120695,8 @@ zzz4a789jy.info
 zzz6w0i18y.info
 zzz7h27n29.info
 zzzgs9jehs.info
-zzzz2gbht6.info########################################################################## 
+zzzz2gbht6.info
+########################################################################## 
 # ==> From:            https://blocklist.kowabit.de/list.txt
 # ==> Comment:         Kowabit BoD
 # ==> Source File URL: https://v.firebog.net/hosts/Kowabit.txt
@@ -128377,7 +128380,8 @@ zwire.com
 zxxds.net
 zynga.com
 zz-download-zz5.com
-zz-download-zz7.com########################################################################## 
+zz-download-zz7.com
+########################################################################## 
 # ==> From:            https://mahakala.is/
 # ==> Comment:         Mahakala
 # ==> Source File URL: https://adblock.mahakala.is

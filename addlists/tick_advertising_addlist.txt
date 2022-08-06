@@ -5,6 +5,7 @@
 # ==> advertising
 # ==> tick
 ########################################################################## 
+
 ########################################################################## 
 # ==> From:            https://adaway.org/
 # ==> Comment:         AdAway
@@ -11357,6 +11358,7 @@
 
 # [zynga.com]
 127.0.0.1 log-collector.svctr.zynga.com
+
 ########################################################################## 
 # ==> From:            https://filters.adtidy.org/extension/chromium/filters/15.txt
 # ==> Comment:         Adguard DNS
@@ -57714,7 +57716,8 @@ directadvert.ru
 betweendigital.com
 letysheeps.ru
 a4.overclockers.ua
-novunu.football-plyus.net########################################################################## 
+novunu.football-plyus.net
+########################################################################## 
 # ==> From:            https://github.com/LanikSJ/ubo-filters
 # ==> Comment:         LanikSJ's Admiral Anti-Adblock
 # ==> Source File URL: https://v.firebog.net/hosts/Admiral.txt
@@ -58354,7 +58357,8 @@ xovq5nemr.com
 youngmarble.com
 zbwp6ghm.com
 zealousfield.com
-zlp6s.pw########################################################################## 
+zlp6s.pw
+########################################################################## 
 # ==> From:            https://github.com/anudeepND/blacklist
 # ==> Comment:         Anudeep ND's Blacklist
 # ==> Source File URL: https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt
@@ -100922,6 +100926,7 @@ zlp6s.pw########################################################################
 0.0.0.0 telemetrydeck.com
 0.0.0.0 www.telemetrydeck.com
 0.0.0.0 api.telemetrydeck.com
+
 ########################################################################## 
 # ==> From:            https://disconnect.me/
 # ==> Comment:         Disconnect Ads
@@ -103631,7 +103636,8 @@ zeus.developershed.com
 zeusclicks.com
 zintext.com
 zmedia.com
-zumobi.com########################################################################## 
+zumobi.com
+########################################################################## 
 # ==> From:            https://github.com/easylist/easylist
 # ==> Comment:         Easylist
 # ==> Source File URL: https://v.firebog.net/hosts/Easylist.txt
@@ -121730,7 +121736,8 @@ slview.psne.jp
 support.streamjav.top
 x0r.urlgalleries.net
 yotta.scrolller.com
-ytre9jk.txxx.com########################################################################## 
+ytre9jk.txxx.com
+########################################################################## 
 # ==> From:            https://pgl.yoyo.org/adservers/
 # ==> Comment:         Peter Lowe's Adservers
 # ==> Source File URL: https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
@@ -125383,6 +125390,7 @@ ytre9jk.txxx.com################################################################
 127.0.0.1 zukxd6fkxqn.com
 127.0.0.1 zy16eoat1w.com
 127.0.0.1 zzhc.vnet.cn
+
 ########################################################################## 
 # ==> From:            https://github.com/FadeMind/hosts.extras
 # ==> Comment:         Fademind's Unchecky Ads
@@ -125397,6 +125405,7 @@ ytre9jk.txxx.com################################################################
 0.0.0.0 installer.betterinstaller.com
 0.0.0.0 nsis.bisrv.com
 0.0.0.0 tracking.opencandy.com.s3.amazonaws.com
+
 ########################################################################## 
 # ==> From:            https://github.com/bigdargon/hostsVN
 # ==> Comment:         hostsVN

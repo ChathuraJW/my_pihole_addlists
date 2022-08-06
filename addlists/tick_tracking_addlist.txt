@@ -5,6 +5,7 @@
 # ==> tracking
 # ==> tick
 ########################################################################## 
+
 ########################################################################## 
 # ==> From:            https://github.com/easylist/easylist
 # ==> Comment:         Easyprivacy
@@ -13028,7 +13029,8 @@ log.ttbc-hcm.gov.vn
 logsbin.dantri.com.vn
 pixel.coccoc.com
 stats.muasamcong.gov.vn
-track-srv.vietnamnet.vn########################################################################## 
+track-srv.vietnamnet.vn
+########################################################################## 
 # ==> From:            https://dsi.ut-capitole.fr/blacklists/index_en.php
 # ==> Comment:         Fabrice Prigent's Ads
 # ==> Source File URL: https://v.firebog.net/hosts/Prigent-Ads.txt
@@ -16707,7 +16709,8 @@ zmedia.com
 zqtk.net
 zumodemarketing.com
 zxxds.net
-zy16eoat1w.com########################################################################## 
+zy16eoat1w.com
+########################################################################## 
 # ==> From:            https://gitlab.com/quidsup/notrack-blocklists
 # ==> Comment:         Quidsup Trackers
 # ==> Source File URL: https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt
@@ -31606,6 +31609,7 @@ zqtk.net #comScore - Tracker
 zsj18.com #Unknown - Advertising
 zucks.net #Zucks - Advertising
 zupml.com #Unknown - Tracker
+
 ########################################################################## 
 # ==> From:            https://github.com/Fademind/hosts.extras
 # ==> Comment:         Fademind's 2o7 Network Trackers
@@ -32897,6 +32901,7 @@ zupml.com #Unknown - Tracker
 0.0.0.0 ziffdavisglobal.112.2o7.net
 0.0.0.0 ziffdavispennyarcade.112.2o7.net
 0.0.0.0 zipzoomfly.122.2o7.net
+
 ########################################################################## 
 # ==> From:            https://github.com/crazy-max/WindowsSpyBlocker
 # ==> Comment:         Crazy Max's Microsoft Telemetry
@@ -33255,6 +33260,7 @@ zupml.com #Unknown - Tracker
 0.0.0.0 win8.ipv6.microsoft.com
 0.0.0.0 xblgdvrassets3010.blob.core.windows.net
 0.0.0.0 ztd.dds.microsoft.com
+
 ########################################################################## 
 # ==> From:            https://hostfiles.frogeye.fr/
 # ==> Comment:         Geoffrey Frogeye's First-Party Trackers

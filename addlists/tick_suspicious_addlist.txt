@@ -5,6 +5,7 @@
 # ==> suspicious
 # ==> tick
 ########################################################################## 
+
 ########################################################################## 
 # ==> From:            https://github.com/FadeMind/hosts.extras/
 # ==> Comment:         Fademind's Spammers
@@ -67,6 +68,7 @@
 0.0.0.0 www.unionleisurewear.com
 0.0.0.0 www.vntanktransport.com
 0.0.0.0 www.vydoxtrial.com
+
 ########################################################################## 
 # ==> From:            https://v.firebog.net/hosts/static/w3kbl.txt
 # ==> Comment:         WaLLy3K's Blacklist
