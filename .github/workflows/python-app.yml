@@ -8,9 +8,8 @@ on:
     branches: [ "main" ]
   pull_request:
     branches: [ "main" ]
-
-permissions:
-  contents: read
+  schedule:
+    - cron: "30 12 * * *"
 
 jobs:
   build:
@@ -31,7 +30,7 @@ jobs:
     - name: execute main.py
       run: |
           python3 main.py
-    - name: Commit report
+    - name: Commit Result
       run: |
           git config --global user.name 'Git Bot'
           git config --global user.email 'wachathuraj@gmail.com'
