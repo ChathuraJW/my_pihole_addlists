@@ -196898,7 +196898,7 @@ foryou1k.com
 ########################################################################## 
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2022-08-08 01:08:07 (UTC)                      #
+# Last updated: 2022-08-08 03:19:04 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -196927,6 +196927,7 @@ foryou1k.com
 127.0.0.1	aduanasctpp.com
 127.0.0.1	afromerchants.co.zw
 127.0.0.1	agdm.ml
+127.0.0.1	agemn.co.za
 127.0.0.1	airhobi.com
 127.0.0.1	akim.org.ar
 127.0.0.1	alberts.diamondrelationscrm.us
@@ -196997,6 +196998,7 @@ foryou1k.com
 127.0.0.1	bitlog.shop
 127.0.0.1	blog.aeromus.com
 127.0.0.1	blog.stetgzs.cn
+127.0.0.1	blueprogress.org
 127.0.0.1	bmn.lpmpbanten.id
 127.0.0.1	bmss.org.in
 127.0.0.1	bobcatminer-store.e-mantra.in
@@ -197059,6 +197061,7 @@ foryou1k.com
 127.0.0.1	continentalgroup.net.in
 127.0.0.1	coop-host.com
 127.0.0.1	coopacredito.com
+127.0.0.1	corpernaija.com
 127.0.0.1	corpolevesuplementos.com.br
 127.0.0.1	corpuslender.com
 127.0.0.1	corscania.com
@@ -197090,6 +197093,7 @@ foryou1k.com
 127.0.0.1	demo.energianmittaus.fi
 127.0.0.1	demonware.online
 127.0.0.1	dental.xiaoxiao.media
+127.0.0.1	destinymc.co.za
 127.0.0.1	dev.sebpo.net
 127.0.0.1	dev2-admin.ycbnt.net
 127.0.0.1	dhcmart.com
@@ -197110,6 +197114,7 @@ foryou1k.com
 127.0.0.1	down.1230578.com
 127.0.0.1	down.pcclear.com
 127.0.0.1	down.rxgif.cn
+127.0.0.1	down.yjhyjl.cn
 127.0.0.1	download.doumaibiji.cn
 127.0.0.1	download.pdf00.cn
 127.0.0.1	downloads.bcweb.org.uk
@@ -197119,7 +197124,6 @@ foryou1k.com
 127.0.0.1	drjaralampos.com
 127.0.0.1	drjasonneuro.in
 127.0.0.1	drsha.innovativesolutions.mobi
-127.0.0.1	dukaree.com
 127.0.0.1	dulhagharnh.com
 127.0.0.1	dutapp.wisolve.co.za
 127.0.0.1	dzairvoyages.com
@@ -197153,7 +197157,6 @@ foryou1k.com
 127.0.0.1	expotb.com
 127.0.0.1	f.gogamef.com
 127.0.0.1	f5ajans.com
-127.0.0.1	faai-international.com
 127.0.0.1	facelimpa.com.br
 127.0.0.1	famesa.com.ar
 127.0.0.1	fashionbyprincessmelodicaah.com
@@ -197206,7 +197209,6 @@ foryou1k.com
 127.0.0.1	grimmcm.com
 127.0.0.1	grupobatistella.com.br
 127.0.0.1	grupomoxin.com.do
-127.0.0.1	gs.monerorx.com
 127.0.0.1	gt-max.com.my
 127.0.0.1	gunstel.com
 127.0.0.1	gxthanhtam.com
@@ -197241,7 +197243,6 @@ foryou1k.com
 127.0.0.1	hunggiang.vn
 127.0.0.1	i-dots.com
 127.0.0.1	ideaplusjal.in
-127.0.0.1	imbueautoworx.co.za
 127.0.0.1	imenikala.com
 127.0.0.1	immunotec.network
 127.0.0.1	imobiles.pk
@@ -197270,7 +197271,7 @@ foryou1k.com
 127.0.0.1	jr-software-web.net
 127.0.0.1	jrfurnace.com
 127.0.0.1	justplay.asia
-127.0.0.1	jxwd.cc
+127.0.0.1	kadigital.co.uk
 127.0.0.1	kafei.528k.cn
 127.0.0.1	kairaliagencies.com
 127.0.0.1	kaptured.io
@@ -197314,6 +197315,7 @@ foryou1k.com
 127.0.0.1	livetrack.in
 127.0.0.1	lm.stagingarea.co.za
 127.0.0.1	lms.cstdevs.com
+127.0.0.1	loa-hk.com
 127.0.0.1	location-voitures.ma
 127.0.0.1	loja.eulillian.com
 127.0.0.1	longevitymeats.com
@@ -197328,7 +197330,6 @@ foryou1k.com
 127.0.0.1	macmor-media.com.au
 127.0.0.1	makeupuccino.com
 127.0.0.1	marcowine.com
-127.0.0.1	mario-sunjic.com
 127.0.0.1	marksidfgs.ug
 127.0.0.1	marnersstyler.ug
 127.0.0.1	marquesvogt.com
@@ -197348,6 +197349,7 @@ foryou1k.com
 127.0.0.1	mexicogroups.com
 127.0.0.1	mgcpakistan.com
 127.0.0.1	mikhailmotoringschool.com
+127.0.0.1	milanstaffing.com
 127.0.0.1	minka.com.mx
 127.0.0.1	miriams.vn
 127.0.0.1	misterson.com
@@ -197362,7 +197364,6 @@ foryou1k.com
 127.0.0.1	morientlines.com
 127.0.0.1	mq-ca.com
 127.0.0.1	mulmatdol.com
-127.0.0.1	mumgee.co.za
 127.0.0.1	mwu.com.mx
 127.0.0.1	myphamcuatui.com
 127.0.0.1	mysouthbay.com
@@ -197370,7 +197371,6 @@ foryou1k.com
 127.0.0.1	nakharinitwebhosting.com
 127.0.0.1	nazreghadir.ir
 127.0.0.1	nenlineasv.com
-127.0.0.1	networkwheels.co.za
 127.0.0.1	newdevjyq.devjyq.com
 127.0.0.1	newgoplus.com
 127.0.0.1	newkano.com
@@ -197383,6 +197383,7 @@ foryou1k.com
 127.0.0.1	noonimpex.com
 127.0.0.1	noordhoekmedical.co.za
 127.0.0.1	nothnick.eu
+127.0.0.1	nrc-soluciones.com.ar
 127.0.0.1	ntt-world.com
 127.0.0.1	nuca.com.au
 127.0.0.1	oazahotel.com.mk
@@ -197394,7 +197395,7 @@ foryou1k.com
 127.0.0.1	ohsewgorgeous.co.uk
 127.0.0.1	olia.store
 127.0.0.1	omeryener.com.tr
-127.0.0.1	omscoc.pappai.com
+127.0.0.1	oms.pappai.com
 127.0.0.1	online.creedglobal.in
 127.0.0.1	orsan.gruporhynous.com
 127.0.0.1	outdoortacklebox.com
@@ -197456,6 +197457,7 @@ foryou1k.com
 127.0.0.1	relaxindulge.co.nz
 127.0.0.1	renton.apttechsol.com
 127.0.0.1	reshake-official.com
+127.0.0.1	retailelectricprovider.com
 127.0.0.1	retailexpertscloud.com
 127.0.0.1	rgyui.top
 127.0.0.1	ricambi.fixtofix.it
@@ -197470,7 +197472,6 @@ foryou1k.com
 127.0.0.1	rylanderrichter.com
 127.0.0.1	saffrontheindiankitchen.com
 127.0.0.1	saintjosemariaschool.edu.pe
-127.0.0.1	sainzim.co.za
 127.0.0.1	sareeshaper.com
 127.0.0.1	sbss.com.pk
 127.0.0.1	scan.fearfulcats.tk
@@ -197486,6 +197487,7 @@ foryou1k.com
 127.0.0.1	shop.mediasova.ru
 127.0.0.1	shopart.me
 127.0.0.1	shunda321.com
+127.0.0.1	sieuthiphutungxenang.com
 127.0.0.1	sindicato1ucm.cl
 127.0.0.1	skydivingdzs.com
 127.0.0.1	sleepstarlite-ozark.com
@@ -197507,6 +197509,7 @@ foryou1k.com
 127.0.0.1	static.cz01.cn
 127.0.0.1	stnperu.com
 127.0.0.1	stockmorehouse.com
+127.0.0.1	strachanclark.com
 127.0.0.1	stylesheet.faseaegasdfase.com
 127.0.0.1	subbalakshmi.com
 127.0.0.1	sudariocontabilidade.com.br
@@ -197545,6 +197548,7 @@ foryou1k.com
 127.0.0.1	todoapp.cstdevs.com
 127.0.0.1	toesbv.ga
 127.0.0.1	tonydong.com
+127.0.0.1	torresquinterocorp.com
 127.0.0.1	tournhatrang.asia
 127.0.0.1	tradingview-brokers.learnforcareer.com
 127.0.0.1	training.globodyinc.biz
@@ -197571,7 +197575,6 @@ foryou1k.com
 127.0.0.1	vegproworld.com
 127.0.0.1	vendor.uhurubay.com
 127.0.0.1	veomit.com
-127.0.0.1	vfocus.net
 127.0.0.1	vibesapparels.com
 127.0.0.1	vietroll.vn
 127.0.0.1	viphawan.com
@@ -197579,6 +197582,7 @@ foryou1k.com
 127.0.0.1	visionnextgroup.net
 127.0.0.1	vitrifrig0.com
 127.0.0.1	vocoptions.net
+127.0.0.1	vpts.co.za
 127.0.0.1	vrstar-park.com
 127.0.0.1	w1.zypaint.com
 127.0.0.1	wahkiulogistics.com.hk
@@ -197586,6 +197590,7 @@ foryou1k.com
 127.0.0.1	watersgroupglobal.com
 127.0.0.1	wawanhar.id
 127.0.0.1	web.geomegasoft.net
+127.0.0.1	webhoanggia.com
 127.0.0.1	webs-up.com
 127.0.0.1	websound.ru
 127.0.0.1	weinsteincounseling.com
@@ -197621,7 +197626,6 @@ foryou1k.com
 127.0.0.1	www.davidludlow.com
 127.0.0.1	www.dental.xiaoxiao.media
 127.0.0.1	www.destinocuenca.com
-127.0.0.1	www.doctorcasenave.com
 127.0.0.1	www.easyprotocols.com
 127.0.0.1	www.elgatoconbotaseventos.es
 127.0.0.1	www.empowercareer.com
@@ -197691,4 +197695,4 @@ foryou1k.com
 127.0.0.1	zarzamora.com.mx
 127.0.0.1	zhivir.com
 127.0.0.1	ztekkhosting.com
-# Number of entries: 787
+# Number of entries: 791
