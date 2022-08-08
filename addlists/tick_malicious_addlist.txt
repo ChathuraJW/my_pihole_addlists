@@ -196898,7 +196898,7 @@ foryou1k.com
 ########################################################################## 
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2022-08-08 01:02:06 (UTC)                      #
+# Last updated: 2022-08-08 01:08:07 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -197348,7 +197348,6 @@ foryou1k.com
 127.0.0.1	mexicogroups.com
 127.0.0.1	mgcpakistan.com
 127.0.0.1	mikhailmotoringschool.com
-127.0.0.1	milanstaffing.com
 127.0.0.1	minka.com.mx
 127.0.0.1	miriams.vn
 127.0.0.1	misterson.com
@@ -197395,7 +197394,6 @@ foryou1k.com
 127.0.0.1	ohsewgorgeous.co.uk
 127.0.0.1	olia.store
 127.0.0.1	omeryener.com.tr
-127.0.0.1	oms.pappai.com
 127.0.0.1	omscoc.pappai.com
 127.0.0.1	online.creedglobal.in
 127.0.0.1	orsan.gruporhynous.com
@@ -197693,4 +197691,4 @@ foryou1k.com
 127.0.0.1	zarzamora.com.mx
 127.0.0.1	zhivir.com
 127.0.0.1	ztekkhosting.com
-# Number of entries: 789
+# Number of entries: 787
