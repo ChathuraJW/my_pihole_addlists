@@ -4,7 +4,7 @@ import pandas
 import requests
 import wget
 
-operation_levels = ["tick", "std", "cross"]
+operation_levels = ["tick", "std"]
 categories = ["suspicious", "advertising", "tracking", "malicious", "other"]
 downloaded_file_names = []
 addlist_file_names = []
@@ -47,6 +47,7 @@ def main():
         tag = "[OL: " + operation_level + "; CaT: " + category + "]"
 
         file_name_to_write = "addlists/" + operation_level + "_" + category + "_addlist.txt"
+
         # open file to write
         destination_file = open(file_name_to_write, "ab")
 
@@ -57,26 +58,29 @@ def main():
                     "# ==> Source File URL: " + list_entry[4] + "\n" \
                     "########################################################################## \n"
 
-        # convert string to bytes format
-        destination_file.write(bytes(list_meta, 'utf-8'))
-
         # create filename for download the addlist
         download_file_name = "downloads/" + str(int(round(time.time() * 1000))) + "_" + \
                              operation_level + "_" + category + "_list.temp"
+
         try:
             # download addlist
             wget.download(list_entry[4], download_file_name)
             downloaded_file_names.append(download_file_name)
 
+            # convert meta string to bytes format and write to the file
+            destination_file.write(bytes(list_meta, 'utf-8'))
+
             # open the downloaded file and append to list
             downloaded_file = open(download_file_name, "r")
             file_content = downloaded_file.read()
+
             # ignore empty files
             if file_content.lower().find("service suspended") == -1:
                 destination_file.write(bytes(file_content, 'utf-8'))
                 print(list_entry[4], " ===> Added to the list. ", tag)
             else:
                 print(list_entry[4], " ===x Not added to the list.(empty file) ", tag)
+
             # close opened stream
             downloaded_file.close()
 
