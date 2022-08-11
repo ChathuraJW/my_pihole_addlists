@@ -16577,9 +16577,9 @@ zy16eoat1w.com
 # License: GNU General Public License v3.0
 # Home: https://quidsup.net/notrack/blocklist.php
 # @ GitLab : https://gitlab.com/quidsup/notrack-blocklists
-# Updated: 08 Aug 2022
+# Updated: 10 Aug 2022
 # LatestVersion 22.03
-# Domain Count: 14895
+# Domain Count: 14898
 #===============================================================
 
 1-cl0ud.com #Lead Forensics - Tracker
@@ -20016,6 +20016,7 @@ mkt1139.com #IBM Silverpop - Advertising
 mkt11391.com #IBM Silverpop - Advertising
 mkt11393.com #IBM Silverpop - Advertising
 mkt11394.com #IBM Silverpop - Advertising
+mkt11395.com #IBM Silverpop - Advertising
 mkt11396.com #IBM Silverpop - Advertising
 mkt11397.com #IBM Silverpop - Advertising
 mkt11398.com #IBM Silverpop - Advertising
@@ -20039,6 +20040,8 @@ mkt11415.com #IBM Silverpop - Advertising
 mkt11417.com #IBM Silverpop - Advertising
 mkt11418.com #IBM Silverpop - Advertising
 mkt1142.com #IBM Silverpop - Advertising
+mkt11420.com #IBM Silverpop - Advertising
+mkt11421.com #IBM Silverpop - Advertising
 mkt11423.com #IBM Silverpop - Advertising
 mkt11424.com #IBM Silverpop - Advertising
 mkt11425.com #IBM Silverpop - Advertising
@@ -29222,7 +29225,6 @@ myvisualiq.net #My Visual IQ - Tracker
 myxheat.com #mYx - Tracker
 n-core-pipe.com #Lead Forensics - Tracker
 n214adserv.com #Epom - Tracker
-namesurf.net #HoneyTracks - Tracker
 nanigans.com #Unknown - Tracker
 nanogardens.tech #Unknown Chinese - Tracker
 nanorep.com #NanoRep - Tracker
@@ -30779,6 +30781,7 @@ smetrics.workingadvantage.com #Adobe - Tracker
 smetrics.worldbank.org #Adobe - Tracker
 smetrics.worldmarket.com #Adobe - Tracker
 smetrics.wowtv.de #Adobe - Tracker
+smetrics.wradio.com.mx #Adobe - Tracker
 smetrics.wunetspendprepaid.com #Adobe - Tracker
 smetrics.wyndhamhotels.com #Adobe - Tracker
 smetrics.yaencontre.com #Adobe - Tracker
