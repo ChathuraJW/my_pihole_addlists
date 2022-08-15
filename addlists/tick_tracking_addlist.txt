@@ -16586,9 +16586,9 @@ zy16eoat1w.com
 # License: GNU General Public License v3.0
 # Home: https://quidsup.net/notrack/blocklist.php
 # @ GitLab : https://gitlab.com/quidsup/notrack-blocklists
-# Updated: 13 Aug 2022
+# Updated: 14 Aug 2022
 # LatestVersion 22.03
-# Domain Count: 14898
+# Domain Count: 14897
 #===============================================================
 
 1-cl0ud.com #Lead Forensics - Tracker
@@ -29693,7 +29693,6 @@ rev.contractoruk.com #Revive Adserver - Advertising
 revcontent.com #Unknown - Tracker
 revdepo.com #RevenueHits - Tracker
 revealytics.com #Revealytics - Tracker
-revengemeantjackpot.com #AdMeasures - Advertising
 revenue.com #World Media Group - Tracker
 revenuehits.com #RevenueHits - Tracker
 revenuenetworkcpm.com #Unknown - Advertising
