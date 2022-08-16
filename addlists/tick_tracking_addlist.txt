@@ -16586,9 +16586,9 @@ zy16eoat1w.com
 # License: GNU General Public License v3.0
 # Home: https://quidsup.net/notrack/blocklist.php
 # @ GitLab : https://gitlab.com/quidsup/notrack-blocklists
-# Updated: 14 Aug 2022
+# Updated: 15 Aug 2022
 # LatestVersion 22.03
-# Domain Count: 14897
+# Domain Count: 14895
 #===============================================================
 
 1-cl0ud.com #Lead Forensics - Tracker
@@ -16985,7 +16985,6 @@ aimtell.com #Aimtell - Advertising
 airpr.com #AirPR - Tracker
 aj1010.online #Epom - Advertising
 aj1047.online #Epom - Advertising
-aj1412.online #Epom - Advertising
 aj1549.online #Epom - Advertising
 aj1559.online #Epom - Advertising
 aj1907.online #Epom - Advertising
@@ -17403,7 +17402,6 @@ carbonads.net #Carbon Ads - Advertising
 cardlytics.com #Cardlytics - Tracker
 careuropecreatures.com #AdMeasures - Advertising
 carrotquest.io #Carrot - Tracker
-carrotraining.com #AdMeasures - Advertising
 carrottrack.io #Carrot - Tracker
 casalemedia.com #Index Exchange - Advertising
 cashlantis.com #Unknown - Advertising
