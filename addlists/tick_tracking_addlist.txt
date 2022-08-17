@@ -140,6 +140,7 @@ liadm.com
 lite-cdn.com
 liveyield.com
 lltrck.com
+lmepbq.com
 loloclicks.biz
 lsdm.co
 maggieeatstheangel.com
@@ -1050,6 +1051,7 @@ soretrain.com
 sortsail.com
 sortstructure.com
 sowlettuce.com
+spadelocket.com
 sparklesleet.com
 sparklingnumber.com
 sparklingshelf.com
@@ -1346,6 +1348,7 @@ analytics.ostr.io
 analytics.paddle.com
 analytics.pagefly.io
 analytics.piksel.com
+analytics.pixels.ai
 analytics.pointdrive.linkedin.com
 analytics.pop2watch.com
 analytics.prezly.com
@@ -1605,6 +1608,7 @@ fcmatch.google.com
 fcmatch.youtube.com
 felix.data.tm-awx.com
 filament-stats.herokuapp.com
+fingerprinter-production.herokuapp.com
 firebaselogging-pa.googleapis.com
 fkrkkmxsqeb5bj9r.s3.amazonaws.com
 flashstats.libsyn.com
@@ -2366,6 +2370,7 @@ trusted-web-seal.cybertrust.ne.jp
 analytics.audionow.de
 analytics.gameforge.de
 analytics.media-proweb.de
+artemis-cdn.ocdn.eu
 beagle.prod.tda.link
 blacktri-a.akamaihd.net
 cgicounter.onlinehome.de
@@ -2526,7 +2531,6 @@ bisko.mall.tv
 bnr.alza.cz
 counter.cnw.cz
 h.imedia.cz
-h.seznam.cz
 hit.skrz.cz
 i.imedia.cz
 log.cpex.cz
@@ -2681,6 +2685,8 @@ nctrk.abmail.com.br
 neurotrack.neurolake.io
 track.e7r.com.br
 track.noddus.com
+tracker.tolvnow.com
+visit-prod-us.occa.ocs.oraclecloud.com
 webstats.sapo.pt
 pixel.biano.ro
 profiling.avandor.com
@@ -3259,6 +3265,7 @@ tongji.meizu.com
 top.wn.com
 touch.myntra.com
 tr.clickstay.com
+tr.www.cloudflare.com
 track-visit.monday.com
 track.dictionary.com
 track.kueez.com
@@ -12817,6 +12824,7 @@ dna.uol.com.br
 g.bit.pt
 g.bitmag.com.br
 geoip.ativo.com
+globo-ab.globo.com
 logger.rm.uol.com.br
 logger.uol.com.br
 metrics.uol.com.br
@@ -16586,9 +16594,9 @@ zy16eoat1w.com
 # License: GNU General Public License v3.0
 # Home: https://quidsup.net/notrack/blocklist.php
 # @ GitLab : https://gitlab.com/quidsup/notrack-blocklists
-# Updated: 15 Aug 2022
+# Updated: 16 Aug 2022
 # LatestVersion 22.03
-# Domain Count: 14895
+# Domain Count: 14923
 #===============================================================
 
 1-cl0ud.com #Lead Forensics - Tracker
@@ -16964,6 +16972,7 @@ adzerk.net #Adzerk - Advertising
 adzhub.com #Adzerk - Advertising
 adzip.co #Adbox Digital - Advertising
 aerserv.com #AerServ - Advertising
+af.shalltry.com #Infinix Tracker - Tracker
 affec.tv #Unknown - Advertising
 affhit.com #Unknown - Tracker
 affilbox.cz #AffilBox - Advertising
@@ -16982,6 +16991,7 @@ ahalogy.com #Ahalogy - Tracker
 aiir.net #Aiir - Advertising
 aimatch.com #aiMatch - Tracker
 aimtell.com #Aimtell - Advertising
+aireport.shalltry.com #Infinix Tracker - Tracker
 airpr.com #AirPR - Tracker
 aj1010.online #Epom - Advertising
 aj1047.online #Epom - Advertising
@@ -17126,6 +17136,7 @@ analytics.rodpub.com #rodpub.com - Tracker
 analytics.samsungknox.com #Samsung - Tracker
 analytics.schoolwires.com #schoolwires.com - Tracker
 analytics.sem-track.com #sem-track.com - Tracker
+analytics.site123.io #First Party - Tracker
 analytics.slashdotmedia.com #Slash dot - Tracker
 analytics.sleeknote.com #Sleek Note - Tracker
 analytics.snidigital.com #Snidigital.Com - Tracker
@@ -17318,10 +17329,12 @@ bingads.com #Microsoft - Advertising
 bingads.microsoft.com #Microsoft - Advertising
 bis-dic15.com #Lead Forensics - Tracker
 bisrv.com #Unknown - Tracker
+bitcoin-polish.com #Unknown - Advertising
 bitmovin.com #Bitmovin - Tracker
 bizible.com #Bizible - Tracker
 bizographics.com #Bizographics - Advertising
 bkrtx.com #Oracle - Tracker
+blackrock-crypto.net #Phishing - Tracker
 blinkx.com #Blinkx - Advertising
 blismedia.com #Blis - Tracker
 blockadsnot.com #Block Ads Not - Advertising
@@ -17535,6 +17548,7 @@ connct-9.com #Lead Forensics - Tracker
 connectad.io #ConnectAd - Advertising
 connexity.net #Connexity - Advertising
 constant.co #Constant - Tracker
+content-loads.com #Unknown - Advertising
 content-square.net #Unknown - Advertising
 content.ad #Unknown - Advertising
 contentclick.co.uk #Unknown - Advertising
@@ -17710,6 +17724,7 @@ drawingwheels.com #AdMeasures - Advertising
 dressipi.com #Unknown - Tracker
 drift.com #Drift - Tracker
 driv-analytics.com #Unknown - Tracker
+ds.shalltry.com #Infinix Tracker - Tracker
 dsch.ninja #Distilled SCH - Advertising
 dsf4t5jfds34j.com #Unknown - Advertising
 dsply.com #Unknown - Tracker
@@ -17752,6 +17767,7 @@ edigitalresearch.com #eDigitalResearch - Tracker
 edigitalsurvey.com #eDigitalResearch - Tracker
 edmanalytics.pandahall.com #Pandahall.com - Tracker
 eepurl.com #mailchimp - Tracker
+efectivedates.co #Unknown - Advertising
 efeedbacktrk.com #eFeedbackTrk - Tracker
 effectivecpmcontent.com #AdMeasures - Advertising
 effectivemeasure.com #Effective Measure - Tracker
@@ -18076,17 +18092,19 @@ hrb1tng0.com #Lead Forensics - Tracker
 hs-analytics.com #Hubspot - Tracker
 hs-analytics.net #Hubspot - Tracker
 hs-banner.com #Hubspot - Tracker
+hs-scripts.com #Hubspot - Tracker
 hsadspixel.net #Hubspot - Tracker
+hscollectedforms.net #Hubspot - Tracker
 hskwq.com #Unknown - Tracker
 hsleadflows.net #Hubspot - Tracker
 hsms04.com #Hubspot - Tracker
 hsms08.com #Hubspot - Tracker
 hsstatic.net #Hubspot - Tracker
 html5-ads.vk-apps.com #VK - Advertising
-httptrack.com #Unknown - Tracker
 hubapi.com #Hubspot - Tracker
 hubspot.com #Hubspot - Tracker
 hubspot.net #Hubspot - Tracker
+hubspotfeedback.com #Hubspot - Tracker
 hubtraffic.com #Hubspot - Tracker
 hugexdeal.com #Unknown - Advertising
 huqindustries.co.uk #Huq Industries - Tracker
@@ -18187,6 +18205,8 @@ iprom.net #iPROM - Tracker
 ipromcloud.com #iPROM - Tracker
 ipromote.com #Unknown - Tracker
 ir3.xyz #Unknown - Advertising
+ire-dsc.shalltry.com #Infinix Tracker - Tracker
+ire-dsu.shalltry.com #Infinix Tracker - Tracker
 iris.tv #Iris - Tracker
 ironsrc.mobi #IronSource - Advertising
 irregularhumilityoptical.com #AdMeasures - Advertising
@@ -29283,6 +29303,7 @@ nmp1.com #Email Vision - Advertising
 nobeta.com.br #NoBeta - Advertising
 nosto.com #Nosto - Tracker
 notes-analytics-events.apple.com #Apple - Tracker
+notifymetric.com #Push Ads - Tracker
 notifyvisitors.com #NotifyVisitors - Tracker
 notsy.io #Notsy - Tracker
 noughttrustthreshold.com #cloud-dns-tech - Advertising
@@ -29376,6 +29397,7 @@ optimizesrv.com #Unknown - Advertising
 optinmonster.com #OptinMonster - Advertising
 optnmnstr.com #OptinMonster - Advertising
 optnmstr.com #OptinMonster - Advertising
+os-code.shalltry.com #Infinix Tracker - Tracker
 otbuzvqq8fm5.com #AdMeasures - Advertising
 outbrain.com #Outbrain - Advertising
 outbrainimg.com #Outbrain - Advertising
@@ -29578,11 +29600,15 @@ purch.com #Purch - Tracker
 purebushesprop.com #AdMeasures - Advertising
 purpleads.io #PurpleAds - Advertising
 pushagim.com #Unknown - Advertising
+pushclk.com #Push Ads - Tracker
+pushcrew.com #VWO Engage - Tracker
 pusher.com #Pusher - Tracker
 pusherapp.com #Pusher - Advertising
 pushlinck.com #Unknown - Advertising
 pushlog.wsoft.ru #Wsoft.ru - Tracker
 pushmeup.art #RollerAds - Advertising
+pushnami.com #Pushnami - Advertising
+pushnetwork.com #Digital Media Solutions - Advertising
 pushnow.net #RollerAds - Advertising
 pushpad.xyz #PushPad - Advertising
 pushprofit.net #PushProfit - Advertising
@@ -29590,6 +29616,7 @@ pushprofit.ru #PushProfit - Advertising
 pushub.net #PusHub - Advertising
 pushvault.com #Spiroox - Tracker
 pushwoosh.com #Pushwoosh - Advertising
+pushy.ai #Pushy - Tracker
 pussycash.com #Unknown - Advertising
 pvclouds.com #AdMeasures - Advertising
 pwieu.com #Unknown - Tracker
@@ -29806,6 +29833,7 @@ searchmarketing.com #Unknown - Tracker
 seat.it #Seat PG - Tracker
 secondunderminecalm.com #AdMeasures - Advertising
 secretmedia.com #Unknown - Tracker
+secureanalytic.com #Push Ads - Tracker
 securedvisit.com #4cite - Tracker
 securemetrics.apple.com #Adobe - Tracker
 securemetrics.athletawell.com #Adobe - Tracker
@@ -29827,6 +29855,7 @@ sendpulse.com #SendPulse - Tracker
 sensic.net #Unknown - Tracker
 sentifi.com #Unknown - Tracker
 sentimenthypocrisy.com #AdMeasures - Advertising
+sentkey.com #New Relic - Tracker
 servebom.com #Unknown - Tracker
 servedby-buysellads.com #BuySellAds - Advertising
 servedbyopenx.com #OpenX - Tracker
@@ -30797,6 +30826,7 @@ smetrics.ytv.com #Adobe - Tracker
 smetrics.zales.com #Adobe - Tracker
 smetrics.zalesoutlet.com #Adobe - Tracker
 smetrics1.experian.com #Adobe - Tracker
+smpush.com #Push Ads - Advertising
 smrk.io #Smarkio - Tracker
 snackly.co #Unknown - Tracker
 snapads.com #SnapAds - Advertising
@@ -31045,6 +31075,7 @@ testanalytics.net #Unknown - Tracker
 textad.net #Unknown - Advertising
 the-ozone-project.com #Ozone Project - Tracker
 theadex.com #Unknown - Advertising
+thebtcuprofit.com #Unknown - Advertising
 thehut.net #Unknown - Tracker
 themoneytizer.com #Moneytizer - Tracker
 thescv.team #Unknown - Tracker
@@ -31079,6 +31110,7 @@ tp88trk.com #Tapjoy - Tracker
 tpbid.com #Appreciate - Advertising
 tqlkg.com #Unknown - Tracker
 tqn.com #Unknown - Tracker
+tr.snapchat.com #Snapchat - Tracker
 track.addevent.com #addevent.com - Tracker
 track.canva.com #canva.com - Tracker
 track.dictionary.com #Dictionary.Com - Tracker
@@ -31128,6 +31160,7 @@ tracking.atreemo.com #atreemo.com - Tracker
 tracking.cmjump.com.au #Unknown - Tracker
 tracking.csgipe.com #csgipe.com - Tracker
 tracking.epicgames.com #epicgames.com - Tracker
+tracking.forbetterforworse.co.uk #First Party - Tracker
 tracking.hawksearch.com #hawksearch.com - Tracker
 tracking.hsn.com #hsn.com - Tracker
 tracking.india.miui.com #Miui - Tracker
@@ -31184,6 +31217,7 @@ tremorvideo.com #Tremor Video - Advertising
 tribalfusion.com #Unknown - Tracker
 triggit.com #Unknown - Tracker
 tritondigital.com #Triton Digital - Advertising
+trk-convenire.com #Push Ads - Tracker
 trk.celtx.com #celtx.com - Tracker
 trk.homeaway.com #Homeaway.com - Tracker
 trk.informationweek.com #Informationweek.Com - Tracker
@@ -31328,6 +31362,7 @@ vilynx.com #Vilynx - Tracker
 vindicosuite.com #Unknown - Tracker
 vintagerespectful.com #AdMeasures - Advertising
 viqeo.tv #Viqeo - Tracker
+viral782.com #Unknown - Tracker
 virtuoussoftware.com #Virtuous - Tracker
 visenze.com #ViSenze - Tracker
 visiblejoseph.com #AdMeasures - Advertising
@@ -31351,6 +31386,7 @@ vortex-win.data.microsoft.com #Microsoft - Tracker
 vortex.data.microsoft.com #Microsoft - Tracker
 vppgamingnetwork.com #Unknown - Tracker
 vserv.mobi #Vserv - Tracker
+vthird-log.vskit.tv #First Party - Tracker
 vu239trk.com #Unknown - Tracker
 vungle.com #Vungle - Tracker
 vuukle.com #Vuukle - Tracker
