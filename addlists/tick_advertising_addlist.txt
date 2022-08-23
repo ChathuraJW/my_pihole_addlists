@@ -2172,9 +2172,6 @@
 # [tc-bic.appspot.com]
 127.0.0.1 tc-bic.appspot.com
 
-# [triggeredmail.appspot.com]
-127.0.0.1 triggeredmail.appspot.com
-
 # [apptap.com]
 127.0.0.1 api.apptap.com
 127.0.0.1 appdiscovery.apptap.com
@@ -122378,7 +122375,7 @@ ytre9jk.txxx.com
 # other formats:  https://pgl.yoyo.org/adservers/formats.php
 # policy:         https://pgl.yoyo.org/adservers/policy.php
 #
-# start date:    Tue, 27 Aug 2002 00:00:00
+# start date:    Wed, 28 Aug 2002 00:00:00
 127.0.0.1 1-1ads.com
 127.0.0.1 101com.com
 127.0.0.1 101order.com
