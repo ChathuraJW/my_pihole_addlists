@@ -32794,7 +32794,7 @@ ff02::3		ip6-allhosts
 # License: WTFPL (http://www.wtfpl.net/about/)
 # Home: https://github.com/RooneyMcNibNug/pihole-stuff
 # @ GitHub : https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt
-# Updated: 16 August 2022
+# Updated: 25 August 2022
 #
 #
 ### "i have seen many people spill their guts on-line, and i did so myself until, at last,    ###
@@ -96583,10 +96583,11 @@ internalanalytics.sleeknote.com
 analytics.sleeknote.com
 geolocation.sleeknote.com
 mailchimp.sleeknote.com
+iiu2.top
 
 ########################################################################## 
 # ==> From:            https://ssl.bblck.me/
 # ==> Comment:         paulgb's BarbBlock
 # ==> Source File URL: https://ssl.bblck.me/blacklists/hosts-file.txt
 ########################################################################## 
-<!doctype html><html data-adblockkey="MFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBANDrp2lz7AOmADaN8tA50LsWcjLFyQFcb/P2Txc58oYOeILb3vBw7J6f4pamkAQVSQuqYsKx3YzdUHCvbVZvFUsCAwEAAQ==_v5bn3pP+Moe6wC9rBeTD5ISMvRLmEm2PbeDzd2DjaKqyoquQW8MjM+5TMV+KVkznh9NLJFNyB1XDTwF3pr5tig=="><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><link rel="preconnect" href="https://www.google.com" crossorigin><link rel="dns-prefetch" href="https://parking.bodiscdn.com" crossorigin></head><body><div id="target" style='opacity: 0'></div><script>window.park = "eyJ1dWlkIjoiYjQ0Nzk3ZDUtMDZmNi0yYzRhLWE0N2UtYmE0MGMzMjkxMmM1IiwicGFnZV90aW1lIjoxNjYxMzg5NjY1LCJwYWdlX3VybCI6Imh0dHA6XC9cL3d3MS5iYmxjay5tZVwvIiwicGFnZV9tZXRob2QiOiJHRVQiLCJwYWdlX3JlcXVlc3QiOltdLCJwYWdlX2hlYWRlcnMiOnsiY29ubmVjdGlvbiI6WyJjbG9zZSJdLCJ1c2VyLWFnZW50IjpbIlB5dGhvbi11cmxsaWJcLzMuOSJdLCJob3N0IjpbInd3MS5iYmxjay5tZSJdLCJhY2NlcHQtZW5jb2RpbmciOlsiaWRlbnRpdHkiXX0sImhvc3QiOiJ3dzEuYmJsY2subWUiLCJpcCI6IjUyLjE4Ni42OC4xOTAifQ==";</script><script src="/js/parking.2.95.2.js"></script></body></html>
+<!doctype html><html data-adblockkey="MFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBANDrp2lz7AOmADaN8tA50LsWcjLFyQFcb/P2Txc58oYOeILb3vBw7J6f4pamkAQVSQuqYsKx3YzdUHCvbVZvFUsCAwEAAQ==_v5bn3pP+Moe6wC9rBeTD5ISMvRLmEm2PbeDzd2DjaKqyoquQW8MjM+5TMV+KVkznh9NLJFNyB1XDTwF3pr5tig=="><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><link rel="preconnect" href="https://www.google.com" crossorigin><link rel="dns-prefetch" href="https://parking.bodiscdn.com" crossorigin></head><body><div id="target" style='opacity: 0'></div><script>window.park = "eyJ1dWlkIjoiZWE3YjM2MDAtM2RiNS1kZmJmLWVmNDktYzk4NjgzODE2ZjFhIiwicGFnZV90aW1lIjoxNjYxNDc1NzQyLCJwYWdlX3VybCI6Imh0dHA6XC9cL3d3MS5iYmxjay5tZVwvIiwicGFnZV9tZXRob2QiOiJHRVQiLCJwYWdlX3JlcXVlc3QiOltdLCJwYWdlX2hlYWRlcnMiOnsiY29ubmVjdGlvbiI6WyJjbG9zZSJdLCJ1c2VyLWFnZW50IjpbIlB5dGhvbi11cmxsaWJcLzMuOSJdLCJob3N0IjpbInd3MS5iYmxjay5tZSJdLCJhY2NlcHQtZW5jb2RpbmciOlsiaWRlbnRpdHkiXX0sImhvc3QiOiJ3dzEuYmJsY2subWUiLCJpcCI6IjEwNC4yMTAuMjIyLjEyOCJ9";</script><script src="/js/parking.2.95.2.js"></script></body></html>
