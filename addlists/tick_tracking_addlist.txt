@@ -16621,9 +16621,9 @@ zy16eoat1w.com
 # License: GNU General Public License v3.0
 # Home: https://quidsup.net/notrack/blocklist.php
 # @ GitLab : https://gitlab.com/quidsup/notrack-blocklists
-# Updated: 28 Aug 2022
+# Updated: 29 Aug 2022
 # LatestVersion 22.03
-# Domain Count: 14957
+# Domain Count: 14956
 #===============================================================
 
 1-cl0ud.com #Lead Forensics - Tracker
@@ -30629,7 +30629,6 @@ smetrics.princess.com #Adobe - Tracker
 smetrics.privilege.com #Adobe - Tracker
 smetrics.provigo.ca #Adobe - Tracker
 smetrics.provincial.com #Adobe - Tracker
-smetrics.pruadviser.co.uk #Adobe - Tracker
 smetrics.publicissapient.com #Adobe - Tracker
 smetrics.qatarairways.com #Adobe - Tracker
 smetrics.quill.com #Adobe - Tracker
