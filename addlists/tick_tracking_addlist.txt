@@ -16627,9 +16627,9 @@ zy16eoat1w.com
 # License: GNU General Public License v3.0
 # Home: https://quidsup.net/notrack/blocklist.php
 # @ GitLab : https://gitlab.com/quidsup/notrack-blocklists
-# Updated: 29 Aug 2022
+# Updated: 31 Aug 2022
 # LatestVersion 22.03
-# Domain Count: 14956
+# Domain Count: 14959
 #===============================================================
 
 1-cl0ud.com #Lead Forensics - Tracker
@@ -17660,7 +17660,6 @@ ctnsnet.com #Crimtan - Advertising
 cuckooretire.com #AdMeasures - Advertising
 cuebiq.com #Cubiq - Advertising
 curalate.com #BazaarVoice - Tracker
-curbimpress.com #AdMeasures - Advertising
 curulate.com #Curulate - Advertising
 cusperbid.com #Unknown - Tracker
 custobar.com #Custobar - Tracker
@@ -17808,7 +17807,6 @@ edigitalresearch.com #eDigitalResearch - Tracker
 edigitalsurvey.com #eDigitalResearch - Tracker
 edmanalytics.pandahall.com #Pandahall.com - Tracker
 eepurl.com #mailchimp - Tracker
-efectivedates.co #Unknown - Advertising
 efeedbacktrk.com #eFeedbackTrk - Tracker
 effectivecpmcontent.com #AdMeasures - Advertising
 effectivemeasure.com #Effective Measure - Tracker
@@ -20082,6 +20080,7 @@ mkt11388.com #IBM Silverpop - Advertising
 mkt11389.com #IBM Silverpop - Advertising
 mkt1139.com #IBM Silverpop - Advertising
 mkt11391.com #IBM Silverpop - Advertising
+mkt11392.com #IBM Silverpop - Advertising
 mkt11393.com #IBM Silverpop - Advertising
 mkt11394.com #IBM Silverpop - Advertising
 mkt11395.com #IBM Silverpop - Advertising
@@ -20118,6 +20117,7 @@ mkt11425.com #IBM Silverpop - Advertising
 mkt11427.com #IBM Silverpop - Advertising
 mkt11428.com #IBM Silverpop - Advertising
 mkt1143.com #IBM Silverpop - Advertising
+mkt11430.com #IBM Silverpop - Advertising
 mkt11431.com #IBM Silverpop - Advertising
 mkt11433.com #IBM Silverpop - Advertising
 mkt11434.com #IBM Silverpop - Advertising
@@ -29500,6 +29500,7 @@ perfunctoryfrugal.com #AdMeasures - Advertising
 permissionresearch.com #PermissionResearch - Tracker
 permutive.app #Permutive - Tracker
 permutive.com #Permutive - Tracker
+perryvolleyball.com #AdMeasures - Advertising
 personyze.com #Personyze - Tracker
 persoo.cz #Persoo - Tracker
 peruseinvitation.com #AdMeasures - Advertising
@@ -29716,6 +29717,7 @@ radiumone.com #RadiumOne - Tracker
 raggedstriking.com #AdMeasures - Advertising
 rallyad-server.net #Revive Adserver - Advertising
 rampanel.com #Research and Analysis of Media - Tracker
+rates1.com #Unknown Chinese - Tracker
 rayjump.com #Mobvista - Advertising
 rbl.ms #Rebelmouse - Tracker
 rcsmetrics.it #Corriere.it - Tracker
@@ -30129,6 +30131,7 @@ smetrics.bkstr.com #Adobe - Tracker
 smetrics.bloombergtax.com #Adobe - Tracker
 smetrics.bmc.com #Adobe - Tracker
 smetrics.bmo.com #Adobe - Tracker
+smetrics.bms-onkologie.de #Adobe - Tracker
 smetrics.bmscustomerconnect.com #Adobe - Tracker
 smetrics.bncollege.com #Adobe - Tracker
 smetrics.bnymellon.com #Adobe - Tracker
@@ -30153,6 +30156,7 @@ smetrics.caleres.com #Adobe - Tracker
 smetrics.calia.com #Adobe - Tracker
 smetrics.calvinklein.us #Adobe - Tracker
 smetrics.camzyos.com #Adobe - Tracker
+smetrics.camzyoshcp.com #Adobe - Tracker
 smetrics.capitalone.com #Adobe - Tracker
 smetrics.careplushealthplans.com #Adobe - Tracker
 smetrics.carfax.com #Adobe - Tracker
@@ -30887,7 +30891,6 @@ smetrics.yaencontre.com #Adobe - Tracker
 smetrics.ybs.co.uk #Adobe - Tracker
 smetrics.yellowpages.com.au #Adobe - Tracker
 smetrics.yervoy.com #Adobe - Tracker
-smetrics.ytv.com #Adobe - Tracker
 smetrics.zales.com #Adobe - Tracker
 smetrics.zalesoutlet.com #Adobe - Tracker
 smetrics1.experian.com #Adobe - Tracker
