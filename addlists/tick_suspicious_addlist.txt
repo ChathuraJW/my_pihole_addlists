@@ -77,9 +77,13 @@
 # Personal Blocklist by WaLLy3K (https://firebog.net/about)
 # Content added to this list has been manually verified, and is updated irregularly
 
-# Licensing: CC BY-NC 4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
-## You are welcome to share, copy, redistibute, remix and transform this content
-## You must give appropriate credit, and not use this list for commercial purposes
+# Licensing: CC BY 4.0 (http://creativecommons.org/licenses/by/4.0/)
+## You are welcome to copy, redistibute, remix, transform and build upon this content
+## You must give appropriate credit and indicate if changes were made
+
+## Addtionally, you may even use this commercially
+## However in the spirit of open-source, I strongly urge a small reoccuring donation to help cover costs:
+## https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=HU4EDJZP2S9QA
 
 # Ads
 quantummetric.com # Cydia/Bigboss
