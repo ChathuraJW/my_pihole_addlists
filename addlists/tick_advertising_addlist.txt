@@ -125790,7 +125790,7 @@ zzghcckpzlhob.com
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Thu, 01 Sep 2022 16:46:05 GMT
+# last updated:   Sat, 03 Sep 2022 19:08:44 GMT
 # entries:        3671
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
@@ -125799,7 +125799,7 @@ zzghcckpzlhob.com
 # other formats:  https://pgl.yoyo.org/adservers/formats.php
 # policy:         https://pgl.yoyo.org/adservers/policy.php
 #
-# start date:    Sun, 08 Sep 2002 00:00:00
+# start date:    Mon, 09 Sep 2002 00:00:00
 127.0.0.1 1-1ads.com
 127.0.0.1 101com.com
 127.0.0.1 101order.com
@@ -127862,7 +127862,6 @@ zzghcckpzlhob.com
 127.0.0.1 intelliads.com
 127.0.0.1 intelligenceadx.com
 127.0.0.1 intellitxt.com
-127.0.0.1 intentsify.io
 127.0.0.1 interactive.forthnet.gr
 127.0.0.1 intercom-clicks.com
 127.0.0.1 intergi.com
@@ -129154,6 +129153,7 @@ zzghcckpzlhob.com
 127.0.0.1 tracking.exipure.com
 127.0.0.1 tracking.hyros.com
 127.0.0.1 tracking.ibxlink.com
+127.0.0.1 tracking.intentsify.io
 127.0.0.1 tracking.internetstores.de
 127.0.0.1 tracking.intl.miui.com
 127.0.0.1 tracking.jiffyworld.com
@@ -129493,9 +129493,9 @@ zzghcckpzlhob.com
 # ==> Source File URL: https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts
 ########################################################################## 
 # Title: hostsVN
-# Last modified: 02 Sep 2022 23:25 UTC+7
-# Version: 2209022325
-# Blocked: 17.399 domains
+# Last modified: 03 Sep 2022 23:09 UTC+7
+# Version: 2209032309
+# Blocked: 17.400 domains
 # Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -147048,6 +147048,7 @@ zzghcckpzlhob.com
 0.0.0.0 unanimis.co.uk
 0.0.0.0 unarmedindustry.com
 0.0.0.0 unblestrustic.com
+0.0.0.0 uncoreswizzle.com
 0.0.0.0 undeenardoo.com
 0.0.0.0 understandintimidate.com
 0.0.0.0 undooptimisticsuction.com
