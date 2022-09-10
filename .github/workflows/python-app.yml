@@ -35,5 +35,6 @@ jobs:
         run: |
           git config --global user.name 'GitHub Action'
           git config --global user.email 'wachathuraj@gmail.com'
+          git add .
           git commit -am "Automated update : build-$GITHUB_RUN_ID"
           git push
