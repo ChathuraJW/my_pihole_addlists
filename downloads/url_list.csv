@@ -8,11 +8,6 @@ https://winhelp2002.mvps.org/hosts.txt
 https://v.firebog.net/hosts/neohostsbasic.txt
 https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt
 https://paulgb.github.io/BarbBlock/blacklists/hosts-file.txt
-https://hostsfile.mine.nu/hosts0.txt
-https://hostsfile.org/Downloads/hosts.txt
-https://www.joewein.net/dl/bl/dom-bl-base.txt
-https://v.firebog.net/hosts/Kowabit.txt
-https://adblock.mahakala.is
 https://adaway.org/hosts.txt
 https://v.firebog.net/hosts/AdguardDNS.txt
 https://v.firebog.net/hosts/Admiral.txt
@@ -33,8 +28,6 @@ https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/android-tracki
 https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/SmartTV.txt
 https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/AmazonFireTV.txt
 https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt
-https://hostfiles.frogeye.fr/multiparty-trackers-hosts.txt
-https://raw.githubusercontent.com/Kees1958/W3C_annual_most_used_survey_blocklist/6b8c2411f22dda68b0b41757aeda10e50717a802/TOP_EU_US_Ads_Trackers_HOST
 https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareHosts.txt
 https://osint.digitalside.it/Threat-Intel/lists/latestdomains.txt
 https://s3.amazonaws.com/lists.disconnect.me/simple_malvertising.txt
@@ -50,6 +43,4 @@ https://raw.githubusercontent.com/Spam404/lists/master/main-blacklist.txt
 https://raw.githubusercontent.com/AssoEchap/stalkerware-indicators/master/generated/hosts
 https://urlhaus.abuse.ch/downloads/hostfile/
 https://v.firebog.net/hosts/Prigent-Malware.txt
-https://raw.githubusercontent.com/tg12/pihole-phishtank-list/master/list/phish_domains.txt
-https://raw.githubusercontent.com/HorusTeknoloji/TR-PhishingList/master/url-lists.txt
 https://zerodot1.gitlab.io/CoinBlockerLists/hosts_browser
