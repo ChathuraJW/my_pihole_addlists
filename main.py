@@ -3,13 +3,19 @@ import logging
 import pandas
 import requests
 
-operated_lists = []
-failed_lists = []
+add_list_urls = ["https://v.firebog.net/hosts/lists.php?type=tick",
+                 "https://v.firebog.net/hosts/lists.php?type=nocross"]
+list_types = ["tick", "nocross"]
 
 
-def main():
+def main(firebog_url, list_type):
+    """Main function"""
+
+    # define variables
+    operated_lists = []
+    failed_lists = []
+
     # download url list
-    firebog_url = "https://v.firebog.net/hosts/lists.php?type=all"
     list_file_content = requests.get(firebog_url)
     open("downloads/url_list.csv", "wb").write(list_file_content.content)
     logging.info("firebog list downloaded.")
@@ -18,13 +24,13 @@ def main():
     url_list = pandas.read_csv("downloads/url_list.csv").to_numpy()
 
     # create an empty file for final lists
-    file_name = "addlists/complete_addlist.txt"
+    file_name = "addlists/complete_addlist_"+list_type+".txt"
 
     # create top comment of the file
     content = "########################################################################## \n" \
               "# This add list created based on the lists at https://firebog.net/.\n" \
               "# This aggregated list is licence under the Apache-2.0 license.\n" \
-              "# The content of this list categorized as \n" \
+              "# The content of this list categorized as " + list_type + ".\n" \
               "########################################################################## \n"
 
     # create the file
@@ -67,12 +73,13 @@ def main():
         file.write(link + "\n")
     file.close()
 
-    logging.info("Addlist file content written.")
+    logging.info("Addlist file content written. for " + list_type + ".")
 
     logging.info("Successes lists: " + str(operated_lists))
     logging.info("Failed lists: " + str(failed_lists) if len(failed_lists) != 0 else "No failed lists.")
 
 
 if __name__ == "__main__":
-    main()
+    for url, l_type in zip(add_list_urls, list_types):
+        main(url, l_type)
     # TODO try tree implementation if possible to analyze the urls
