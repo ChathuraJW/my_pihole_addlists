@@ -1,0 +1,34 @@
+#Automation script - scheduled_addlist_repository_updator
+#This action will execute at 6.00AM(+5.30) every day and update the addlist by executing the scraping script
+
+name: Scheduled AddList Repository Updator
+on:
+  schedule:
+    - cron: '00 00 * * *'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Set up Python 3.9
+        uses: actions/setup-python@v3
+        with:
+          python-version: "3.9"
+
+      - name: Setup execution environment
+        run: |
+          python -m pip install --upgrade pip
+          if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
+
+      - name: Scrape sources and verify
+        run: |
+          python3 main.py
+
+      - name: Commit updates
+        run: |
+          git config --global user.name 'GitHub Action'
+          git config --global user.email 'wachathuraj@gmail.com'
+          git add .
+          git commit -am "Automated update : build-$GITHUB_RUN_ID"
+          git push

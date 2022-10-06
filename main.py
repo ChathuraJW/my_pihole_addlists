@@ -9,6 +9,9 @@ add_list_urls = ["https://v.firebog.net/hosts/lists.php?type=tick",
                  "https://v.firebog.net/hosts/lists.php?type=nocross"]
 list_types = ["tick", "nocross"]
 
+# define log level
+logging.basicConfig(level=logging.INFO, format='%(asctime)s - [%(levelname)s] - %(message)s')
+
 
 def url_validator(url_to_check):
     """Validate the url"""
@@ -29,7 +32,7 @@ def url_validator(url_to_check):
             return False
 
 
-def main(firebog_url, list_type):
+def scraper(firebog_url, list_type):
     """Main function"""
 
     # define variables
@@ -104,4 +107,4 @@ def main(firebog_url, list_type):
 
 if __name__ == "__main__":
     for url, l_type in zip(add_list_urls, list_types):
-        main(url, l_type)
+        scraper(url, l_type)
