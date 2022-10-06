@@ -1,4 +1,6 @@
 import logging
+import re
+import string
 
 import pandas
 import requests
@@ -6,6 +8,25 @@ import requests
 add_list_urls = ["https://v.firebog.net/hosts/lists.php?type=tick",
                  "https://v.firebog.net/hosts/lists.php?type=nocross"]
 list_types = ["tick", "nocross"]
+
+
+def url_validator(url_to_check):
+    """Validate the url"""
+    # identify @ symbol
+    if re.search("([a-zA-Z]*[0-9])*@([0-1]*[a-zA-Z]*)*", url_to_check):
+        return False
+    # identify unwanted latter and characters
+    ascii_values = string.ascii_letters
+    if url_to_check.find("#") != -1:
+        url_to_check = url_to_check[:url_to_check.find("#")]
+    if len(url_to_check) == 0:
+        return False
+    if url_to_check[0] != "#":
+        r = [i for i in url_to_check if i not in ascii_values and not re.search("([0-9]+)|([/|:|_|\-|.|\t|\s]+)", i)]
+        if len(r) == 0:
+            return True
+        else:
+            return False
 
 
 def main(firebog_url, list_type):
@@ -24,7 +45,7 @@ def main(firebog_url, list_type):
     url_list = pandas.read_csv("downloads/url_list.csv").to_numpy()
 
     # create an empty file for final lists
-    file_name = "addlists/complete_addlist_"+list_type+".txt"
+    file_name = "addlists/complete_addlist_" + list_type + ".txt"
 
     # create top comment of the file
     content = "########################################################################## \n" \
@@ -52,7 +73,9 @@ def main(firebog_url, list_type):
             if len(file_content) != 0:
                 # do the work
                 for link in file_content.decode("utf-8").splitlines():
-                    all_link_list.add(link)
+                    # validate the url
+                    if url_validator(link):
+                        all_link_list.add(link)
                 # update the processed lists
                 operated_lists.append(link_to_list)
             else:
@@ -82,4 +105,3 @@ def main(firebog_url, list_type):
 if __name__ == "__main__":
     for url, l_type in zip(add_list_urls, list_types):
         main(url, l_type)
-    # TODO try tree implementation if possible to analyze the urls
