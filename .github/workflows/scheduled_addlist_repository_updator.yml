@@ -1,14 +1,8 @@
-#Automation script
-#This action will execute at 6.00AM(+5.30) every day or in any commit to main branch and update the all addlist
-#by executing the main.py script
+#Automation script - scheduled_addlist_repository_updator
+#This action will execute at 6.00AM(+5.30) every day and update the addlist by executing the scraping script
 
-name: Pi-Hole Addlist Updator
-
+name: Scheduled AddList Repository Updator
 on:
-  push:
-    branches: [ "main" ]
-  pull_request:
-    branches: [ "main" ]
   schedule:
     - cron: '00 00 * * *'
 
@@ -27,7 +21,7 @@ jobs:
           python -m pip install --upgrade pip
           if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
 
-      - name: Scrape sources
+      - name: Scrape sources and verify
         run: |
           python3 main.py
 
