@@ -26,7 +26,6 @@ jobs:
           python3 main.py
 
       - name: Commit updates
-        if: ${GITHUB_REF##*/} == 'main'
         run: |
           git config --global user.name 'GitHub Action'
           git config --global user.email 'wachathuraj@gmail.com'
